@@ -1,0 +1,6 @@
+{
+  "name": "MedCare Plus - Chăm Sóc Sức Khỏe Toàn Diện",
+  "description": "Hệ thống y tế quốc tế MedCare Plus - Đội ngũ hơn 100 bác sĩ đầu ngành, dịch vụ khám chữa bệnh chất lượng cao đạt chuẩn JCI và đặt lịch khám online tiện lợi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
